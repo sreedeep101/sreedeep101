@@ -10,17 +10,6 @@
     
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sreedeep101&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">  
   <br>
-
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=shad-ct&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-
-
-<!---
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreedeep101&radius=8&theme=chartreuse-dark&area=true&order=5&hide_title=false&hide_border=true" height="288" alt="activity-graph graph" />
-</p>
-
---->
-  <br>
 </p>
  
+![Snake animation](https://github.com/sreedeep101/sreedeep101/blob/output/github-contribution-grid-snake.svg)
