@@ -8,16 +8,16 @@
     <br>
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sreedeep101&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
     
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sreedeep 101&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">  
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sreedeep101&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">  
   <br>
 
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=sreedeep 101&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=sreedeep101&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
 
 
 <!---
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shad-ct&radius=8&theme=chartreuse-dark&area=true&order=5&hide_title=false&hide_border=true" height="288" alt="activity-graph graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreedeep101&radius=8&theme=chartreuse-dark&area=true&order=5&hide_title=false&hide_border=true" height="288" alt="activity-graph graph" />
 </p>
 
 --->
