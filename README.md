@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-⭐I am currently pursuing bachelor's degree in computational science at kannur university.
+#### My Name is Sreedeep Pradeep & i am currently pursuing bachelor's degree in computational science at kannur university.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sree_dee_p) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sreedeep-Pradeep ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreedeeppradeep101@gmail.com) <br/>
 <p align="center">
@@ -15,10 +15,12 @@
   <br>
 </p>
 
+## Ho Noo Watch This 🐍 Will Eating My Commits .
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sreedeep101/sreedeep101/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sreedeep101/sreedeep101/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sreedeep101/sreedeep101/output/github-snake.svg" />
 </picture>
 
 
